@@ -1,0 +1,5 @@
+flask~=3.0.3
+pymysql~=1.0.2
+SQLAlchemy~=2.0.29
+Werkzeug~=3.0.2
+Faker~=24.8.0
